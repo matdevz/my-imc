@@ -1,3 +1,3 @@
 # My IMC
 
-![App Ui base](./assets/app 1.png)
+![./assets/app 1.png]( App Ui base)
