@@ -17,13 +17,13 @@ Para instalar é necessário que você tenha em suar maquína:
 
 ### Passo 1
 Clone o repositório:
-`bash git clone https://github.com/matdevz/my-imc.git`
+`git clone https://github.com/matdevz/my-imc.git`
 
 ### Passo 2
 Instale as dependências
-`bash npm i` ou `bash yarn`
+`npm i` ou `bash yarn`
 
 ### Passo 3
 Rode a aplicação
-`bash npm start` ou `yarn start`
+`npm start` ou `yarn start`
 
