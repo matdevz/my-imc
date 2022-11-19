@@ -26,5 +26,8 @@ Instale as dependências
 ### Passo 3
 Rode a aplicação
 `npm start` ou `yarn start`
+#
+
+Para instalar o aplicativo clique no link abaixo ⬇️
 
 [DOWNLOAD APP](https://www.mediafire.com/file/abohxmce0g2ugx7/my-imc.apk/file)
